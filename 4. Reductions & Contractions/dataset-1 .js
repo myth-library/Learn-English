@@ -1,0 +1,35 @@
+/* 
+
+1) give + me => gimme (ගිමි)
+2) let + me => lemme (ලෙමි)
+3) what + is + up => wassup (වස්'අප්)
+4) could + have => coulda (කුඩ)
+5) might + have => mighta (මයිට)
+6) must + have => musta (මස්ට)
+7) should + have => shoulda (ශුඩ)
+8) would + have => woulda (වුඩ)
+9) going + to => gonna (ගොන)
+10) got + to => gotta (ගොඩ)
+11) have + to => hafta (හැෆ්ට)
+12) has + to => hasta (හැzට)
+13) ought + to => oughta (ඕට)
+14) want + to => wanna/wansta (වොන)
+15) kind of => kinda (කයින්ඩ)
+16) kinds of => kindsa (කයින්ඩ්ස)
+17) load of => lodsa (ලොඩ්ස)
+18) lots + of => lotsa (ලොට්ස)
+19) out + of => outta (අවුට)
+20) sort + of => sorta (සෝට)
+21) type + of => typa (ටයිප)
+22) front + of => fronna (ෆ්‍රන)
+23) bet + you => betcha (බෙච)
+24) don't + you => dontcha 
+25) get + you => getcha
+26) see + you => seeya (සීයා)
+27) got + you => gotcha (ගොච්ච)
+28) how + do + you / how + would + you => how'dya (හවුඩ්‍ය)
+29) did + you => dja (ඩ්ජ්‍ය)
+30) want + you => wantcha (වොන්ච)
+31) don't + know => dunno (ඩනෝ)
+
+*/
